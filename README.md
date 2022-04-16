@@ -2,7 +2,7 @@
 Quick number guesser (JavaScript, CSS, HTML)
 
 ## JavaScript Number Guesser
-Quick little "project challenge" I found within the Full-Stack Engineering course of Codecademy. 
+Quick little "project challenge" I found within the Full-Stack Engineering course of Codecademy.[^1]
 
 ## Functionality ⛓
 This repository consists of an HTML file, a CSS stylesheet and 2 JavaScript files. The JavaScript
