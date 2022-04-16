@@ -1,4 +1,4 @@
-# numberguesser
+# Number Guesser 🤔
 Quick number guesser (JavaScript, CSS, HTML)
 
 ## JavaScript Number Guesser
